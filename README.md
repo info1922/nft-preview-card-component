@@ -9,7 +9,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Live Site URL: [Solution](https://your-live-site-url.com)
+- Live Site URL: [Solution](https://nft-preview-card-component-main-gules-chi.vercel.app)
 
 
 ### Built with
